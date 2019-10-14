@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1SCCmEfadC56XUARvtjkzP0TLIw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PpmtoolApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ppmtool-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="inc.kraken.ppmtoolapi.PpmtoolApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
